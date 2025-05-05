@@ -1,2 +1,2 @@
-# Gardem-Brick-Break
+# Garden-Brick-Break
 Arquivos do primeiro jogo que criei
